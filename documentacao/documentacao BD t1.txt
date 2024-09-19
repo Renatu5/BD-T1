@@ -1,0 +1,10 @@
+elementos em comum entre clientes - Herança
+CLRV = unico (Primary key)
+serviço = data estimada, relação entre o serviço e o carro (mudar para tipo de serviço)
+**criar outra entidade com o nome serviço (associativa? entre carro e o tipo de serviço) (carro associado ao cliente)
+peças faz relação com peças
+remover - franquia, financeiro, 
++ atributos para seguro/seguradora
+data de inicio, data de fim para serviço;
+Ferramentas e peças são utilizadas em um mesmo tipo de serviço, logo pode ser fundida em uma entidade "Material";
+Funcionário não está ligado ao serviço, pois essa entidade se refere ao tempo da mão de obra;
